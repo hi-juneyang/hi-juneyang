@@ -1,6 +1,6 @@
 ## Hi, I'm June!
 
-I'm a second-year Mechanical Engineering student at Queen's University with a particular interest in mechatronics, controls and systems engineering, and automation. I am a Business Development Lead and Mechanical Systems Member at Queen's Rocket Engineering Team. I am passionate about integrating different systems to solve real-world challenges, across both technical and operational domains. 
+I'm a second-year Mechanical Engineering student at Queen's University with a particular interest in mechatronics, automation, controls, systems engineering, and automation. I am a Business Development Lead and Mechanical Systems Member at Queen's Rocket Engineering Team. I am passionate about integrating different systems to solve real-world challenges, across both technical and operational domains. 
 
 ### Projects
 - **Wearable Gait Rehabilitation Device**: ESP32-based wearable device for arm-swing monitoring and real-time rehabilitation feedback. [[View Project]](https://github.com/hi-juneyang/gait-rehab-device)
